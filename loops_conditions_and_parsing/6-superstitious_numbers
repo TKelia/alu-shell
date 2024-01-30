@@ -14,3 +14,8 @@ while [ $count -le 20 ]; do
 														                echo -e "$count\nbad luck from Italy"
 																            ;;
 																	            *)
+																			                echo $count
+																					            
+																					    esac
+																					       ((count ++))
+																				       done
