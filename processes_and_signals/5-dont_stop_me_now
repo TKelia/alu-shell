@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #display
 prpg_pid=()
-
+kill ./4-to_infinity_and_beyond
